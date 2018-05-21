@@ -1,11 +1,10 @@
 # SORACOM-LoRaWAN-STM
-SORACOM STM32L0 LoRa Discovery Kit 用 プログラム
-------------------------------------
+SORACOM STM32L0 LoRa Discovery Kit 逕ｨ 繝励Ο繧ｰ繝ｩ繝
 
 ## HelloLCD
-Arduino 用 LCD Keypadシールド用 液晶表示ドライバソフト
+Arduino 逕ｨ LCD Keypad繧ｷ繝ｼ繝ｫ繝臥畑 豸ｲ譎ｶ陦ｨ遉ｺ繝峨Λ繧､繝舌た繝輔ヨ
 
 ## End_Node_LCD
-LoRaWANサンプルプログラム
-- 送信状態、受信状態、JOIN状態を表示(LCDの1行目)
-- LoRaWANから受信したメッセージをLCDへ表示(2行目)
+LoRaWAN繧ｵ繝ｳ繝励Ν繝励Ο繧ｰ繝ｩ繝
+- 騾∽ｿ｡迥ｶ諷九∝女菫｡迥ｶ諷九゛OIN迥ｶ諷九ｒ陦ｨ遉ｺ(LCD縺ｮ1陦檎岼)
+- LoRaWAN縺九ｉ蜿嶺ｿ｡縺励◆繝｡繝�繧ｻ繝ｼ繧ｸ繧鱈CD縺ｸ陦ｨ遉ｺ(2陦檎岼)
