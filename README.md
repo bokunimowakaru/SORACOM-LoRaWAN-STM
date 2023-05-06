@@ -1,5 +1,6 @@
 # SORACOM-LoRaWAN-STM
-SORACOM STM32L0 LoRa Discovery Kit 用 プログラム
+
+## SORACOM STM32L0 LoRa Discovery Kit 用 プログラム
 
 ## HelloLCD
 Arduino 用 LCD Keypadシールド用 液晶表示ドライバソフト
@@ -30,8 +31,11 @@ PDF版 ダウンロードページ
   End_Node プロジェクトの保存場所：  
   Lora_soracom_rev2.1 > Projects > Multi > Applications > LoRa > End_Node > MDK-ARM > BL072Z-LRWAN1 > Lora.uvprojx  
 
-- SORACOM LoRa Arduino 開発シールド AL-050 用  
-[https://github.com/bokunimowakaru/SORACOM-LoRaWAN](https://github.com/bokunimowakaru/SORACOM-LoRaWAN)
+- SORACOM LoRa Arduino 開発シールド AL-050 用 GitHub Pages
+[https://git.bokunimo.com/SORACOM-LoRaWAN](https://git.bokunimo.com/SORACOM-LoRaWAN)  
+
+- SORACOM LoRa Arduino 開発シールド AL-050 用 リポジトリ  
+[https://github.com/bokunimowakaru/SORACOM-LoRaWAN](https://github.com/bokunimowakaru/SORACOM-LoRaWAN)  
 
 ----------------------------------------------------------------
 
