@@ -1,6 +1,5 @@
-# SORACOM-LoRaWAN-STM
-
-## SORACOM STM32L0 LoRa Discovery Kit 用 プログラム
+# SORACOM-LoRaWAN-STM forked by Wataru KUNINO
+## Code Examples for STM32L0 LoRa Discovery Kit (SORACOM STM32L0 LoRa Discovery Kit 用)
 
 ![STM32L0 LoRa Discovery Kit](https://bokunimo.net/cq/lorawan/P1030746w.jpg)  
 
