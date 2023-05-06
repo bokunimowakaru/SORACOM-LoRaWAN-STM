@@ -2,6 +2,8 @@
 
 ## SORACOM STM32L0 LoRa Discovery Kit 用 プログラム
 
+![STM32L0 LoRa Discovery Kit](https://bokunimo.net/cq/lorawan/P1030746w.jpg)  
+
 ## HelloLCD
 Arduino 用 LCD Keypadシールド用 液晶表示ドライバソフト
 
