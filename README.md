@@ -31,7 +31,7 @@ PDF版 ダウンロードページ
   End_Node プロジェクトの保存場所：  
   Lora_soracom_rev2.1 > Projects > Multi > Applications > LoRa > End_Node > MDK-ARM > BL072Z-LRWAN1 > Lora.uvprojx  
 
-- SORACOM LoRa Arduino 開発シールド AL-050 用 GitHub Pages
+- SORACOM LoRa Arduino 開発シールド AL-050 用 GitHub Pages  
 [https://git.bokunimo.com/SORACOM-LoRaWAN](https://git.bokunimo.com/SORACOM-LoRaWAN)  
 
 - SORACOM LoRa Arduino 開発シールド AL-050 用 リポジトリ  
@@ -44,7 +44,7 @@ PDF版 ダウンロードページ
 
 ----------------------------------------------------------------
 
-# git.bokunimo.com GitHub Pages site
+## git.bokunimo.com GitHub Pages site
 [http://git.bokunimo.com/](http://git.bokunimo.com/)
 
 ----------------------------------------------------------------
